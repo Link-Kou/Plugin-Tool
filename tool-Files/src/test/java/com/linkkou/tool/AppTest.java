@@ -1,6 +1,4 @@
-package com.linkkou.tool
-
--kou;
+package com.linkkou.tool;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
